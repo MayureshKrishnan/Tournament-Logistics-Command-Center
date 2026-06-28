@@ -1,0 +1,4 @@
+worldcup_env/
+.env
+__pycache__/
+*.csv
